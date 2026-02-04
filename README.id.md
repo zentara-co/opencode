@@ -102,7 +102,7 @@ OpenCode menyertakan dua agen bawaan yang dapat Anda ganti dengan tombol `Tab`.
   - Meminta izin sebelum menjalankan perintah bash
   - Ideal untuk menjelajahi basis kode yang tidak familiar atau merencanakan perubahan
 
-Selain itu, tersedia subagen **general** untuk pencarian kompleks dan tugas multi-langkah.
+Selain itu, tersedia subagen **general** untuk pencarian kompleks dan tugas "multi-step".
 Ini digunakan secara internal dan dapat dipanggil menggunakan `@general` dalam pesan.
 
 Pelajari lebih lanjut tentang [agen](https://opencode.ai/docs/agents).
@@ -117,7 +117,7 @@ Jika Anda tertarik untuk berkontribusi pada OpenCode, silakan baca [dokumen kont
 
 ### Membangun di Atas OpenCode
 
-Jika Anda sedang mengerjakan proyek yang terkait dengan OpenCode dan menggunakan "opencode" sebagai bagian dari namanya; misalnya, "opencode-dashboard" atau "opencode-mobile", harap tambahkan catatan di README Anda untuk menjelaskan bahwa proyek tersebut tidak dibangun oleh tim OpenCode dan tidak terafiliasi dengan kami dengan cara apa pun.
+Jika Anda sedang mengerjakan proyek yang terkait dengan OpenCode dan menggunakan "opencode" sebagai bagian dari namanya; misalnya, "opencode-dashboard" atau "opencode-mobile", harap tambahkan catatan di README Anda untuk menjelaskan bahwa proyek tersebut tidak dibangun dan terafiliasi oleh tim OpenCode dengan cara apa pun.
 
 ### FAQ
 
@@ -125,7 +125,7 @@ Jika Anda sedang mengerjakan proyek yang terkait dengan OpenCode dan menggunakan
 
 Secara kemampuan sangat mirip dengan Claude Code. Berikut adalah perbedaan utama:
 
-- 100% sumber terbuka
+- 100% open source
 - Tidak terikat dengan penyedia apa pun. Meskipun kami merekomendasikan model yang kami sediakan melalui [OpenCode Zen](https://opencode.ai/zen); OpenCode dapat digunakan dengan Claude, OpenAI, Google, atau bahkan model lokal. Seiring berkembangnya model, kesenjangan di antara mereka akan menutup dan harga akan turun sehingga menjadi agnostik penyedia sangat penting.
 - Dukungan LSP bawaan
 - Fokus pada TUI. OpenCode dibangun oleh pengguna neovim dan pencipta [terminal.shop](https://terminal.shop); kami akan mendorong batas kemungkinan di terminal.
@@ -133,4 +133,4 @@ Secara kemampuan sangat mirip dengan Claude Code. Berikut adalah perbedaan utama
 
 ---
 
-**Bergabung dengan komunitas kami** [Discord](https://discord.gg/opencode) | [X.com](https://x.com/opencode)
+**Bergabung dengan komunitas OpenCode** [Discord](https://discord.gg/opencode) | [X.com](https://x.com/opencode)
